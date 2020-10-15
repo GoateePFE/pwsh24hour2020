@@ -10,3 +10,6 @@ Ashley McGlone is a former Microsoft Premier Field Engineer and now a Technical 
 
 ## Resources
 Slides with notes and links in the PDF in this repo. For any questions, comments, or feedback ping [Ashley McGlone](https://twitter.com/GoateePFE).
+
+## Video
+[YouTube](https://youtu.be/aIyfYdKFLWY)
